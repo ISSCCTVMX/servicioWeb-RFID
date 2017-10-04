@@ -10,6 +10,9 @@
 
 > /rfid?id={ID objeto RFID}&comentario={Texto comentario}
 
+### Ejemplo
+
+> http://issmexico.net:94/rfid?id=1234&comentario=4321
 
 ### Método	
 **GET**
